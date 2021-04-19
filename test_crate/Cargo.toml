@@ -1,5 +1,5 @@
 [package]
-name = "test_workspace"
+name = "test_crate"
 version = "0.1.0"
 authors = ["Sarthak Singh <ss269@uw.edu>"]
 edition = "2018"
